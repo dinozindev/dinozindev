@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Kenji, mas você pode me chamar de Dino. 
 
 - 🔭 Hoje desenvolvo projetos próprios.
-- 🌱 Estudando HTML e CSS desde de Fev/2023 e JavaScript desde Abr/2023 pela Alura.
+- 🌱 Estudando HTML e CSS desde de Fev/2023, JavaScript desde Abr/2023 e React desde Mai/2023 pela Alura.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinozindev&show_icons=true&theme=radical&count_private=true)
 
