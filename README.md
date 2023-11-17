@@ -2,7 +2,7 @@
 
 - 🔭 Hoje desenvolvo projetos próprios.
 - 🌱 Estudando HTML e CSS desde de Fev/2023, JavaScript desde Abr/2023 e React desde Mai/2023 pela Alura.
-- 🔨 Em busca da primeira oportunidade de emprego como Dev Front End. 
+- 🔨 Em busca da primeira oportunidade de emprego como Developer Front-End. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
