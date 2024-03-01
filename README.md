@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Kenji, mas você pode me chamar de Dino. 
+### Olá! Meu nome é Lucas Kenji, mas você pode me chamar de Dino. 
 
 - 🔭 Hoje desenvolvo projetos próprios.
 - 🌱 Estudando HTML e CSS desde de Fev/2023, JavaScript desde Abr/2023 e React desde Mai/2023 pela Alura.
