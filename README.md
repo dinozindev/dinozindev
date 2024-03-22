@@ -2,6 +2,7 @@
 
 - 🔭 Hoje desenvolvo projetos próprios.
 - 🌱 Estudando HTML e CSS desde de Fev/2023, JavaScript desde Abr/2023 e React desde Mai/2023.
+- 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP.
 - 🔨 Em busca da primeira oportunidade de emprego na área de tecnologia.
 
 <div style="display: inline_block"><br>
