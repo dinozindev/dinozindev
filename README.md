@@ -15,16 +15,7 @@
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
-
-
-
-
-
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinozindev)](https://github.com/anuraghazra/github-readme-stats)
 
-##
 
-<div> 
-  <a href = "mailto:dinozindev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
