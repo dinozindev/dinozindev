@@ -18,5 +18,8 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinozindev&langs_count=8)
+
+
 
 
