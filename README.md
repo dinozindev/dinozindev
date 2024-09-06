@@ -23,8 +23,6 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinozindev&layout=compact)
 
-![dinozindev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinozindev&show_icons=true&theme=radical)
-
 </div>
 
 
