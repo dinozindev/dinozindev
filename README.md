@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Lucas Kenji, mas você pode me chamar de Dino. 
 
 - 🔭 Hoje desenvolvo projetos próprios.
-- 🌱 Estudando HTML e CSS desde de Fev/2023, JavaScript desde Abr/2023 e React desde Mai/2023.
+- 🌱 Estudando HTML e CSS desde Fev/2023, JavaScript desde Abr/2023, React desde Mai/2023, Python e Java desde Fev/2024 e Next.js desde Sep/2024.
 - 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP.
 - 🔨 Em busca da primeira oportunidade de emprego na área de tecnologia.
 
