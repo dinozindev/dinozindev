@@ -28,6 +28,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
+<br>
+
 <div style="display: flex" align=center>
 
 <a>
