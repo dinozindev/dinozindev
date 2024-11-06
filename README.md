@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 - 🔭 Hoje desenvolvo projetos próprios.
 - 🌱 Estudando HTML e CSS desde Fev/2023, JavaScript desde Abr/2023, React desde Mai/2023, Python e Java desde Fev/2024 e Next.js desde Sep/2024.
