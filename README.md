@@ -5,7 +5,7 @@
 - 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP.
 - 🔨 Em busca da primeira oportunidade de emprego na área de tecnologia.
 
-<div style="display: inline_block; margin-bottom: 2rem"><br>
+<div style="display: inline_block; margin-bottom: 1rem" align=center><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,10 +21,14 @@
 </div>
 
 <br>
-<div style="display: inline_block">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinozindev&layout=compact)
+<div style="display: flex">
 
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinozindev&theme=vue-dark" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinozindev&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
+</a>
 </div>
 
 
