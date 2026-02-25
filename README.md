@@ -1,8 +1,8 @@
 ![Header](./header-image.png)
 
 - 🔭 Desenvolvedor Full Stack 
-- 🏛️ Cursando Análise e Desenvolvimento de Sistemas na FIAP
-- ⚛️ Fascinado por Python e React
+- 🏛️ Formado como Tecnólogo em Análise e Desenvolvimento de Sistemas na FIAP
+- ⚛️ Fascinado por React, Typescript e .NET
 - 🔨 Em busca da primeira oportunidade de emprego na área de tecnologia
 
 <div style="margin-top: 2rem">
