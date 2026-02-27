@@ -37,8 +37,6 @@
 
 <div style="display: flex" align=center>
 
-![dinozindev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinozindev&show_icons=true&theme=radical)
-
 
 
 
