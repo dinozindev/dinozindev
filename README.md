@@ -37,12 +37,6 @@
 
 <div style="display: flex" align=center>
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinozindev&theme=vue-dark" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinozindev&layout=compact&langs_count=8&card_width=320&theme=vue-dark" />
-
 
 
 
