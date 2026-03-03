@@ -9,6 +9,7 @@
     <a href="mailto:dinozindev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/lucas-kenji-kikuchi-233802287/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://leetcode.com/u/6Lh82YsIAX/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://dinozindev.github.io/portfolio-v2/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </div>
 
 ## Tecnologias que conheço 💻
