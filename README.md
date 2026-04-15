@@ -12,7 +12,7 @@
     <a href="https://dinozindev.github.io/portfolio-v2/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </div>
 
-## Tecnologias que conheço 💻
+## 💻 Tech Stack 
 
 <div align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
