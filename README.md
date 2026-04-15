@@ -35,9 +35,13 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 </div>
 
-<br>
+---
 
 <div style="display: flex" align=center>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dinozindev&theme=merko&locale=pt_BR)](https://git.io/streak-stats)
+
+
 
 
 
